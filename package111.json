@@ -12,8 +12,6 @@
     "watch": "webpack -d --watch",
     "build": "webpack",
     "serve": "serve ./public",
-
-    "start": "nodemon"
   },
   "author": "Christian Nwamba",
   "license": "MIT",
