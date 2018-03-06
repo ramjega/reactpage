@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "React Router Aricle for Scotch",
   "main": "index.js",
+  "homepage": "https://ramjega.github.io/reactpage/",
   "scripts": {
     "deploy": "gh-pages -b master -d build",
     "predeploy": "npm run build",
@@ -12,7 +13,7 @@
     "watch": "webpack -d --watch",
     "build": "webpack",
     "serve": "serve ./public",
-    "homepage": "https://ramjega.github.io/reactpage/",
+
     "start": "nodemon"
   },
   "author": "Christian Nwamba",
